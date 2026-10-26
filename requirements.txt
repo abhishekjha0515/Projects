@@ -1,0 +1,6 @@
+pyspark>=3.5
+delta-spark>=3.2
+pytest>=8.0
+pandas
+pyarrow
+numpy
